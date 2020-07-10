@@ -10,7 +10,7 @@ With a passion for creating new ideas and beautiful functional <b style="color:#
 </center>
 
 <hr>
-📫 How to reach me: <a href="mailto:irshad@phonerefer.com">Contact</a> 🌍 Website: <a href="https://irshadali.codes">Irshadali.codes</a>
+📫 How to reach me: <a href="mailto:irshad@phonerefer.com">Contact</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 Website: <a href="https://irshadali.codes">Irshadali.codes</a>
 
 <!--
 **irshad/irshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
