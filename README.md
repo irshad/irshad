@@ -11,6 +11,7 @@ With a passion for creating new ideas and beautiful functional <b style="color:#
 
 <hr>
 ✉️ <a href="mailto:irshad@phonerefer.com">Contact</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ <a href="https://irshadali.codes">Irshadali.codes</a>
+🎞️ <a href="https://instagram.com/imirshadali">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🐦 <a href="https://twitter.com/imirshadali">Twitter</a>
 
 <!--
 **irshad/irshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
