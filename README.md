@@ -1,4 +1,15 @@
-### Hi there 👋
+### <center> Hello 👋 I'm Irshad Ali
+
+<center>
+
+👨‍💻 Software Developer based in Hyderabad, India. <br>
+With a passion for creating new ideas and beautiful functional <b style="color:#89679e"> Applications,</b>  <b  style="color:#f46d68">WebApps</b> & <b style="color:#8bc24a;">websites </b> with a strong understanding of development.
+
+☕️ Coffee Lover 📝 Blogger 📷 Photographer
+
+</center>
+<br>
+![irshad Ali Card](https://dl3.pushbulletusercontent.com/eM3gSnlWCIZOGsvSLwVLpZVj4d15GTIq/GitHub_Card.jpg)
 
 <!--
 **irshad/irshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
