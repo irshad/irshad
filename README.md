@@ -3,7 +3,7 @@
 <center>
 
 👨‍💻 Software Developer based in Hyderabad, India. <br>
-With a passion for creating new ideas and beautiful functional <b style="color:#89679e"> Applications,</b>  <b  style="color:#f46d68">WebApps</b> & <b style="color:#8bc24a;">websites </b> with a strong understanding of development.
+With a passion for creating new ideas and beautiful functional <b style="color:#89679e"> Applications,</b> with a strong understanding of development.
 
 ☕️ Coffee Lover 📝 Blogger 📷 Photographer
 
