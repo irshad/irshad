@@ -10,7 +10,7 @@ With a passion for creating new ideas and beautiful functional <b style="color:#
 </center>
 
 <hr>
-✉️ <a href="mailto:irshad@phonerefer.com">Contact</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ <a href="https://irshadali.codes">Irshadali.codes</a>
+✉️ <a href="mailto:irshad@phonerefer.com">Contact</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ <a href="https://irshadali.codes">Irshadali.codes</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 🎞️ <a href="https://instagram.com/imirshadali">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🐦 <a href="https://twitter.com/imirshadali">Twitter</a>
 
 <!--
