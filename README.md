@@ -9,7 +9,7 @@ With a passion for creating new ideas and beautiful functional <b style="color:#
 
 </center>
 
-![irshad Ali Card](https://dl3.pushbulletusercontent.com/eM3gSnlWCIZOGsvSLwVLpZVj4d15GTIq/GitHub_Card.jpg)
+📫 How to reach me: <a href="mailto:irshad@phonerefer.com">Contact</a>
 
 <!--
 **irshad/irshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
