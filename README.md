@@ -9,7 +9,7 @@ With a passion for creating new ideas and beautiful functional <b style="color:#
 
 </center>
 
-![Suze Shardlow giving a tech talk at Ticketmaster UK](https://github.com/SuzeShardlow/SuzeShardlow.github.io/blob/master/images/public_speaking/ticketmaster.jpg)
+![irshad Ali Card](https://dl3.pushbulletusercontent.com/eM3gSnlWCIZOGsvSLwVLpZVj4d15GTIq/GitHub_Card.jpg)
 
 <!--
 **irshad/irshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
