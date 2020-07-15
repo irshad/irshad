@@ -9,8 +9,6 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
 
 </center>
 
-![irshad card](https://res.cloudinary.com/phonerefer/image/upload/v1594837064/irshadali.site/kqj5zbswiuetrc9lbngv.png)
-
 <hr>
 🖥️ <a href="https://irshadali.codes">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 🎞️ <a href="https://instagram.com/imirshadali">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🐦 <a href="https://twitter.com/imirshadali">Twitter</a>
