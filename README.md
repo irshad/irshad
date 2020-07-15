@@ -9,7 +9,7 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
 
 </center>
 
-![irshad card](https://res.cloudinary.com/phonerefer/image/upload/v1594836873/irshadali.site/ehhbdlwlztxnxc8ry8sk.jpg)
+![irshad card](https://res.cloudinary.com/phonerefer/image/upload/v1594837064/irshadali.site/kqj5zbswiuetrc9lbngv.png)
 
 <hr>
 🖥️ <a href="https://irshadali.codes">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
