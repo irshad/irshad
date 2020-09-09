@@ -16,19 +16,19 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
 
 <p align="center">
   <a href="#">
-    <img src="icons/lang/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/lang/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="icons/lang/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/lang/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="icons/lang/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/lang/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="icons/lang/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/lang/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="icons/lang/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/lang/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
