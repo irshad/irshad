@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello 👋 I'm <a href="https://irshadali.codes">Irshad Ali</a></h1>
+    <h2>Hello 👋 I'm <a href="https://irshadali.codes">Irshad Ali</a></h1>
 </div>
 
 <p align="center">
@@ -12,6 +12,8 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
 </h6>
 
 </p>
+
+## Tools
 
 <p align="center">
   <a href="#">
