@@ -1,13 +1,36 @@
-### <center> Hello 👋 I'm Irshad Ali
+<div align="center">
+    <h1>Hello 👋 I'm <a href="https://irshadali.codes">Irshad Ali</a>
+</h1>
+</div>
 
-<center>
+<p align="center">
 
 👨‍💻 Software Developer based in Hyderabad, India. <br>
 With a passion for creating new ideas and beautiful functional <b> Applications,</b> with a strong understanding of development.
 
 ☕️ Coffee Lover 📝 Blogger 📷 Photographer
 
-</center>
+</p>
+
+## Languages
+
+<p align="center">
+  <a href="#">
+    <img src="icons/lang/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="icons/lang/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="icons/lang/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="icons/lang/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="icons/lang/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
 <hr>
 🖥️ <a href="https://irshadali.codes">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
