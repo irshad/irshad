@@ -54,7 +54,7 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
   </a>
 </p>
 
-### Tools
+<!-- ### Tools
 
 <p align="center">
   <a href="#">
@@ -69,7 +69,7 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
   <a href="#">
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a>
-</p>
+</p> -->
 
 <hr>
 🖥️ <a href="https://irshadali.codes">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
