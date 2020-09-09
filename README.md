@@ -13,22 +13,6 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
 
 </p>
 
-## Tools
-
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
 
 ## Languages
 
@@ -67,6 +51,23 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+### Tools
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
