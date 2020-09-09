@@ -1,15 +1,33 @@
 <div align="center">
-    <h1>Hello 👋 I'm <a href="https://irshadali.codes">Irshad Ali</a>
-</h1>
+    <h1>Hello 👋 I'm <a href="https://irshadali.codes">Irshad Ali</a></h1>
 </div>
 
 <p align="center">
 
+<h3>
 👨‍💻 Software Developer based in Hyderabad, India. <br>
 With a passion for creating new ideas and beautiful functional <b> Applications,</b> with a strong understanding of development.
+</h3>
 
+<h4  align="center">
 ☕️ Coffee Lover 📝 Blogger 📷 Photographer
+</h4>
 
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/tools/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a>
 </p>
 
 ## Languages
@@ -39,9 +57,6 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
@@ -49,6 +64,9 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
