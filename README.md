@@ -32,6 +32,26 @@ With a passion for creating new ideas and beautiful functional <b> Applications,
   </a>
 </p>
 
+## Frameworks
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/nodejs_larger.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
 <hr>
 🖥️ <a href="https://irshadali.codes">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 🎞️ <a href="https://instagram.com/imirshadali">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🐦 <a href="https://twitter.com/imirshadali">Twitter</a>
