@@ -10,13 +10,6 @@ With a passion for creating new ideas and beautiful functional <b> Websites,</b>
 ☕️ Coffee Lover 📝 Blogger 📷 Photographer
 </h4>
 
-<p>
-I am the founder of PhoneRefer.com
-<br/>
-PhoneRefer.com provides useful digital tips and resources on software, apps and gadgets. Our aim is to become your favorite digital resources destination on the web. Where future is arriving faster than ever.
-</p>
-
-
 ## Languages / Frameworks
 
 <p align="center">
