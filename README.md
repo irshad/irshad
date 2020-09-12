@@ -6,9 +6,9 @@
 👨‍💻 Software Developer based in Hyderabad, India. <br>
 With a passion for creating new ideas and beautiful functional <b> Websites,</b> <b> WebApps,</b> & <b> Android-IOS Apps,</b>with a strong understanding of development.
 </p>
-<h6 align="center">
+<h4 align="center">
 ☕️ Coffee Lover 📝 Blogger 📷 Photographer
-</h6>
+</h4>
 
 
 ## Languages / Frameworks
