@@ -11,7 +11,7 @@ With a passion for creating new ideas and beautiful functional <b> Websites,</b>
 </h6>
 
 
-## Languages
+## Languages / Frameworks
 
 <p align="center">
   <a href="#">
@@ -29,11 +29,6 @@ With a passion for creating new ideas and beautiful functional <b> Websites,</b>
   <a href="#">
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/lang/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
-</p>
-
-## Frameworks
-
-<p align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/irshad/irshad/master/icons/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>
