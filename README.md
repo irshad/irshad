@@ -64,8 +64,9 @@ With a passion for creating new ideas and beautiful functional <b> Websites,</b>
 
 <hr>
 <p align="right">
-🖥️ <a href="https://irshadali.codes">Website</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-🎞️ <a href="https://instagram.com/imirshadali">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🐦 <a href="https://twitter.com/imirshadali">Twitter</a>
+🖥️ <a href="https://irshadali.codes"><b>Website</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+🎞️ <a href="https://instagram.com/imirshadali"><b>Instagram</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+🐦 <a href="https://twitter.com/imirshadali"><b>Twitter</b></a>
 </p>
 <!--
 **irshad/irshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
