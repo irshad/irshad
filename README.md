@@ -10,7 +10,7 @@ With a passion for creating new ideas and beautiful functional <b> Websites,</b>
 ☕️ Coffee Lover 📝 Blogger 📷 Photographer
 </h4>
 
-## Languages / Frameworks I Love
+## Languages / Frameworks i love to work with
 
 <p align="center">
   <a href="#">
