@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm a UX/UI Designer**
 
-<p align="left"> 
+<p align="center"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/phonerefer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="phonerefer" height="30" width="40" /></a>
 <a href="https://dev.to/irshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="irshad" height="30" width="40" /></a>
