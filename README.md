@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **irshad@phonerefer.com**
 
-- ⚡ Fun fact **I'm a UX/UI Designer**
+- ⚡ Fun fact **I'm also a UX/UI Designer**
 
 <p align="center"> 
 <h3>Connect with me:</h3>
