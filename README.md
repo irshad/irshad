@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I'm also a UX/UI Designer**
 
+![Metrics](https://metrics.lecoq.io/irshad)
+
 <p align="center"> 
 <h3>Connect with me:</h3>
 <a href="https://codepen.io/phonerefer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="phonerefer" height="30" width="40" /></a>
