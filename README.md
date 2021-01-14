@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I'm also a UX/UI Designer**
 
-![Metrics](https://metrics.lecoq.io/irshad)
 
 <p align="center"> 
 <h3>Connect with me:</h3>
