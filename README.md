@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Irshad Ali</h1>
 <h3 align="center">A passionate Software developer from India, Hyderabad</h3>
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" 
+	integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+	crossorigin="anonymous"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irshad" alt="irshad" /></a> </p>
 
