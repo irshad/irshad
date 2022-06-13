@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html, css, scss, bootstrap, tailwind, javascript, nodejs, react, angular, svelte, Ionic, electron**
 
-- 📫 How to reach me **irshad@phonerefer.com**
+- 📫 How to reach me **irshad@devz.club**
 
 - ⚡ Fun fact **I'm also a UX/UI Designer**
 
