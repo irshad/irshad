@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irshad" alt="irshad" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/imirshadali" target="blank"><img src="https://img.shields.io/twitter/follow/devz_club?logo=twitter&style=for-the-badge" alt="devz_club" /></a> </p>
+<p align="center"> <a href="https://twitter.com/imirshadali" target="blank"><img src="https://img.shields.io/twitter/follow/phonerefer?logo=twitter&style=for-the-badge" alt="devz_club" /></a> </p>
 
 - 🌱 I’m currently learning **Dart + Flutter**
 
