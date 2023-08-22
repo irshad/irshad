@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Dart + Flutter**
 
-- 👨‍💻 All of my projects are available at [https://irshadali.codes](https://irshadali.codes)
+- 👨‍💻 All of my projects are available at [https://irshad.work](https://irshad.work)
 
-- 📝 I regulary write articles on [https://irshadali.codes/blog](https://irshadali.codes/blog)
+- 📝 I regularly write articles on [https://irshad.work/blog](https://irshad.work/blog)
 
 - 💬 Ask me about **html, css, scss, bootstrap, tailwind, javascript, nodejs, react, angular, svelte, Ionic, electron**
 
-- 📫 How to reach me **irshad@devz.club**
+- 📫 How to reach me **hi@irshad.work**
 
 - ⚡ Fun fact **I'm also a UX/UI Designer**
 
