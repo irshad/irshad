@@ -25,9 +25,3 @@
 <a href="https://instagram.com/imirshadali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imirshadali" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/phonerefer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="phonerefer" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irshad&show_icons=true" alt="irshad" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irshad&layout=compact" alt="irshad" />
-</p>
-
