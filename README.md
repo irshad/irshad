@@ -15,13 +15,4 @@
 
 - 📫 How to reach me **hi@irshad.work**
 
-- ⚡ Fun fact **I'm also a UX/UI Designer**
-
-<p align="center"> 
-<h3>Connect with me:</h3>
-<a href="https://codepen.io/phonerefer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="phonerefer" height="30" width="40" /></a>
-<a href="https://dev.to/irshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="irshad" height="30" width="40" /></a>
-<a href="https://twitter.com/imirshadali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imirshadali" height="30" width="40" /></a>
-<a href="https://instagram.com/imirshadali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imirshadali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/phonerefer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="phonerefer" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact **I Design too**
