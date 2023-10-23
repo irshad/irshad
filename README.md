@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/imirshadali" target="blank"><img src="https://img.shields.io/twitter/follow/irshad?logo=twitter&style=for-the-badge" alt="devz_club" /></a> </p>
 
-- 🌱 Currently learning ** Swift + Swift UI **
+- 🌱 Currently learning **Swift + Swift UI**
 
 - 👨‍💻 All of my projects are available at [https://irshad.work](https://irshad.work)
 
