@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://twitter.com/imirshadali" target="blank"><img src="https://img.shields.io/twitter/follow/irshad?logo=twitter&style=for-the-badge" alt="devz_club" /></a> </p>
 
-- 🌱 I’m currently learning **Dart + Flutter**
+- 🌱 Currently learning ** Swift + Swift UI **
 
 - 👨‍💻 All of my projects are available at [https://irshad.work](https://irshad.work)
 
 - 📝 I regularly write articles on [https://irshad.work/blog](https://irshad.work/blog)
 
-- 💬 Ask me about **html, css, scss, bootstrap, tailwind, javascript, nodejs, react, angular, svelte, Ionic, electron**
+- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Tailwind, JavaScript, Python, NodeJs, React, Angular, Svelte, Svelte Kit, Capacitor Ionic, Electron**
 
 - 📫 How to reach me **hi@irshad.work**
 
